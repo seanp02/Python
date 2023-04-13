@@ -13,16 +13,5 @@ def display_multiplication_table(n):
             if (i == 9):
                 print()
                     
-    
-
-#    while i!=10:
-        
-#        for i in range(1,10):
-#            print(f'{i} x {n} = {i*n:2d}', end="    ")
- #           if (i==4)
-  #              print()
-   #     n=n+1
-
-
 n=2
 display_multiplication_table(n)
